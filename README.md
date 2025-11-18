@@ -1,5 +1,5 @@
 # tright
-TRIGHT. Introducing Hyperlocal Research and a solution to a crucial solution, pollution.
+TRIGHT. Introducing Hyperlocal Research and a solution to a crucial problem, Pollution.
 
 Building this with HTML, CSS, Javascript, Python, FastAPI and various other apis and tool kits. The repository will be updated with more files after they've been tested on the local level to an extent.
 
